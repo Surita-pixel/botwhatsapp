@@ -30,7 +30,7 @@ Este proyecto implementa un bot de mensajería para WhatsApp que permite la reco
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/bot-whatsapp-registro.git
+   git clone https://github.com/Surita-pixel/botwhatsapp
    cd bot-whatsapp-registro
    ```
 
